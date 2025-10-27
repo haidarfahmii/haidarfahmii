@@ -34,8 +34,12 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats
 
-[![Haidar's GitHub stats](https://github-readme-stats.vercel.app/api?username=haidarfahmii&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haidarfahmii&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=haidarfahmii&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidarfahmii&layout=compact" />
+</a>
 
 ---
 
