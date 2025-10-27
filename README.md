@@ -1,9 +1,11 @@
-## Hi, I'm Haidar Fahmi  👋
-
-<!--
+<!-- level 1: simple bio and stats 
 **haidarfahmii/haidarfahmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+-->
+
+## Hi, I'm Haidar Fahmi  👋
 
 - 🔭 I’m currently working at Home to Build a Website
 - 🌱 I’m currently learning HTML, CSS, Javascript, Typescript, and NextJs 
@@ -41,4 +43,4 @@ Here are some ideas to get you started:
 [![Haidar's GitHub stats](https://github-readme-stats.vercel.app/api?username=haidarfahmii&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
--->
+
